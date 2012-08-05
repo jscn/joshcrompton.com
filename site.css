@@ -1,0 +1,43 @@
+html {
+    text-align: justify;
+    font-family: helvetica, arial, sans-serif;
+}
+
+body {
+    width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 7.5em;
+    padding-top: 40px;
+    letter-spacing: -0.1em;
+    font-weight: bold;
+    margin: 0;
+    color: #808080;
+}
+
+nav {
+    letter-spacing: -0.1em;
+    word-spacing: .2em;
+    font-size: 4em;
+    font-weight: bold;
+}
+
+p {
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+    color: #404040;
+}
+
+a:hover {
+    color: #A5FF2D;
+}
+.ampersand {
+    font-size: 0.8em;
+}
