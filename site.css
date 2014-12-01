@@ -30,8 +30,11 @@ p {
     text-align: left;
 }
 
-a {
+nav a {
     text-decoration: none;
+}
+
+a {
     color: #404040;
 }
 
